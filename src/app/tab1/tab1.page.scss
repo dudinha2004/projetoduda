@@ -1,0 +1,11 @@
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 26vh;
+  }
+
+  .image-container ion-img {
+    max-width: 130px;
+    max-height: 150px;
+  }
